@@ -73,6 +73,7 @@ const indexData = {
     },
     2026: {
         1: "anime2026.01.json",
+        4: "anime2026.04.json",
     },
 };
 const bg = arrayShuffle([
